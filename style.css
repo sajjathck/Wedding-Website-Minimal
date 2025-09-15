@@ -8,7 +8,7 @@
     --horizontal-margin-spacing: 3rem;
     --grey-color-light: rgba(232,230,230,.6);
     --grey-color: rgba(232,230,230,1);
-    --highlight-bg: #fff7eb;
+    --highlight-bg: #f9f9f9;
     --highlight-padding: 1rem;
     --location-size: 2.5rem;
     --transport-text-size: 1rem;
@@ -219,6 +219,7 @@ a:hover {
     font-size: var(--h3-size);
     font-weight: bold;
     font-family: 'Cinzel', serif; 
+    color: #173f36;
 }
 
 #stay {
